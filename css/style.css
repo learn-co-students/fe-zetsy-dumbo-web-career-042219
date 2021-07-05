@@ -18,3 +18,65 @@ body {
 }
 
 /* Write all remaining styles here */
+
+h2 {
+	font-size: 2em;
+	font-weight: bold;
+	color: rgb(111, 127, 122);
+}
+
+p {
+	color: #555;
+	font-size: 1em;
+	margin: 0 0 20px 0;
+}
+
+header a {
+	color: rgb(152, 173, 166);
+	text-decoration: none;
+}
+
+header a:hover {
+	color: rgb(111, 127, 122);
+}
+
+#main img {
+	border: 5px rgb(152, 173, 166) solid;
+}
+
+.link a {
+	color: #1783bb;
+	text-decoration: none;
+}
+
+.link a:hover {
+	text-decoration: underline;
+}
+
+#press {
+	margin-bottom: 20px;
+}
+
+#press img {
+	border: 5px #ccc solid;
+	padding: 1px;
+}
+
+#press a {
+	color: white;
+}
+
+#press img:hover {
+	border: 5px rgb(111, 127, 122) solid;
+}
+
+footer {
+	text-align: right;
+	font-size: .80em;
+	background: #fff;
+}
+
+
+
+
+
